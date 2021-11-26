@@ -1,0 +1,46 @@
+body{
+    font-family: Arial;
+}
+#head{
+    width: 600px;
+    height: 250px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#anh{
+    padding-top: 0px;
+    float: left;
+    border: 2px solid black;
+}
+#profile{
+    float: left;
+    margin-left: 10px;
+}
+#cat{
+    float: right;
+    padding-top: 20px;
+    line-height: 2px;
+}
+#content{
+    width: 500px;
+    float: left;
+}
+#footer {
+    width: 1000px;
+}
+fieldset{
+    width: 150px;
+
+}
+a{
+    text-decoration: none;
+}
+
+table{
+    width: 1000px;
+
+}
+#bang{
+    width: 70px;
+}
